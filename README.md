@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> Hey there! I'm Rudraa
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Data+Science+Explorer+%F0%9F%93%8A;Always+Learning+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Data+Analyst+Explorer+%F0%9F%93%8A;Always+Learning+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
 <div align="center">
