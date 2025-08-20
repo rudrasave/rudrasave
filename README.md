@@ -134,8 +134,3 @@
 
 ---
 
-<div align="center">
-  
-![Visitor Count](https://visitcount.itsvg.in/api?id=rudrasave&label=Profile%20Views&color=6&icon=5&pretty=true)
-
-</div>
